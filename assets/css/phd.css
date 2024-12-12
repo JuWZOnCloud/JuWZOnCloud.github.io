@@ -7,6 +7,45 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+#project {
+	align-content: center;
+	border-bottom: 0.01em solid;
+	margin-bottom: 4em;
+	margin-left: 3em;
+	margin-right: 3em;
+}
+
+#paragraph_phd {
+	align-content: center;
+	width: auto;
+	margin-left: 5em;
+	margin-right: 5em;
+}
+
+#part1_illus {
+	width:500px;
+}
+
+#part2_illus {
+	width: 700px;
+	margin-top: -10px;
+	margin-bottom: -30px;
+	object-fit: cover;
+}
+
+#part3_illus {
+	width: 700px;
+	margin-top: -30px;
+	margin-bottom: -50px;
+}
+
+#button_pdf {
+	margin-top: 2.5em;
+	margin-bottom: 1.5em;
+}
+
+
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
